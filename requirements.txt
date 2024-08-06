@@ -1,0 +1,15 @@
+# Core libraries for model building and image classification
+tensorflow==2.11.0
+numpy==1.23.0
+pandas==2.0.0
+Pillow==9.5.0
+
+# Libraries for creating the web interface
+streamlit==1.20.0
+
+# Library for reading Excel files
+openpyxl==3.1.2
+
+# Optional libraries (uncomment if needed)
+# scikit-learn==1.2.2  # For additional machine learning tools
+# matplotlib==3.7.0   # For data visualization and plotting
