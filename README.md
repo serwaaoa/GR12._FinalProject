@@ -2,6 +2,7 @@
 ### Group12_Intro_to_AI
 ## 2024-08-05
 ## Nigerian Foods and Snacks Image Classifier using InceptionV3
+##link to youtube video: https://youtu.be/BcRLHNQAsFE
 
 ## Overview
 
